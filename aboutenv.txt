@@ -1,0 +1,12 @@
+======================================================================
+Welcome to the Python Debugging Information Utility ABOUTENV.PY
+Date and Time: 2024-06-29 at 03:33 PM
+======================================================================
+======================================================================
+YAY! .venv directory exists.
+======================================================================
+YAY! The .venv virtual environment is active.
+======================================================================
+No module named 'ipython'
+ERROR: ipython is not installed in .venv. Install it by running: python -m pip install ipython
+======================================================================
